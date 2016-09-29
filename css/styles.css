@@ -1,0 +1,61 @@
+/* HEADER */
+#header-name {
+  text-decoration: none;
+  float: left:
+  width: 30px;
+  padding: 10px 15px  15px 15px;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+#post-title {
+  align-self: center;
+}
+
+#header-links {
+    float: right;
+    display: inline;
+    }
+#header-links li {
+    padding: 2px 15px 5px;
+    list-style: none;
+    display: inline;
+    }
+#headerlinks ul li a {
+  text-decoration: none;
+}
+
+/* header done */
+
+/* POST FORMATTING FOR INDEX  */
+
+.post-preview-format {
+  float: left;
+  text-align: center;
+  width: 300px;
+  border: 1px dotted gray;
+  margin: 20px 20px 20px 20px;
+}
+
+/* POST FORMATING FOR POSTS ONCE CLICKED */
+.post-header {
+  padding-left: 500px;
+}
+
+.post-date {
+  padding-left: 500px;
+}
+
+.post{
+  padding-left: 500px;
+}
+
+#kitten {
+width: 25%;
+height:25%;
+}
